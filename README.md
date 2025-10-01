@@ -30,6 +30,10 @@ I'm an enthusiastic software developer, eager to bring ideas to life and solve r
 
 ---
 
+## 🏆 Badges
+[![An image of @ND-460's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ND-460)](https://holopin.io/@ND-460)
+
+
 ## 🔗 Connect With Me
 
 <!-- Add your social links below -->
