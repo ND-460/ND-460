@@ -32,7 +32,7 @@ I'm an enthusiastic software developer, eager to bring ideas to life and solve r
 
 
 ## My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ND-460&theme=vue-dark)](https://git.io/streak-stats)  ![ND-460's Stats](https://github-readme-stats.vercel.app/api?username=ND-460&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ND-460&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)  ![ND-460's Stats](https://github-readme-stats.vercel.app/api?username=ND-460&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
