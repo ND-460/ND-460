@@ -30,14 +30,6 @@ I'm an enthusiastic software developer, eager to bring ideas to life and solve r
 
 ---
 
-## 🔗 Connect With Me
-
-<!-- Add your social links below -->
-- [LinkedIn](#)
-- [Portfolio](#)
-- [Twitter](#)
-
----
 
 ## My Stats
 
