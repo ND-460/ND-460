@@ -43,7 +43,7 @@ I'm an enthusiastic software developer, eager to bring ideas to life and solve r
 
 ![ND-460's Stats](https://github-readme-stats.vercel.app/api?username=ND-460&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ND-460&label=Profile%20views&color=0e75b6&style=flat" alt="ND-460" /> </p>
+
 
 ---
 > *“The journey of a thousand miles begins with a single step.”*
